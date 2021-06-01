@@ -17,7 +17,4 @@
 </p>
 
 
-<p align="left">
 
-<a href="https://www.hackerrank.com/outoflaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="outoflaksh" height="30" width="40" /></a>
-</p>
