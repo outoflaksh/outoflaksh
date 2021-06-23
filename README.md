@@ -31,6 +31,3 @@
 <img src = "https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white">
 
 </p>
-<a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=outoflaksh&layout=compact&theme=dracula" />
-</a>
