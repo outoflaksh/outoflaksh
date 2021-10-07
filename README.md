@@ -35,3 +35,6 @@
 <img src = "https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white">
 
 </p>
+<h3 align="left">Stats:</h3>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=outoflaksh&show_icons=true&theme=radical)
