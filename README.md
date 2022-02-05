@@ -9,12 +9,30 @@
 
 <hr />
 
-```
+```json
+// would you look at that, we have some delicious JSON here
  {
-   "myPrimaryTechStack": ["Python", "Node.js", "React", "Express.js", "MongoDB"],
-   "haveAlsoWorkWith": ["PostgreSQL", "Next.js", "Flask", "Scikit-Learn", "TensorFlow", "C++"],
-   "enthusiasticAbout": ["Cloud Engineering", "Machine & Deep Learning", "Competitive Coding"]
- }
+   "myPrimaryTechStack":[
+      "Python",
+      "Node.js",
+      "React",
+      "Express.js",
+      "MongoDB"
+   ],
+   "haveAlsoWorkedWith":[
+      "Next.js",
+      "PostgreSQL",
+      "Flask",
+      "Scikit-Learn",
+      "TensorFlow",
+      "C++"
+   ],
+   "enthusiasticAbout":[
+      "Cloud Engineering",
+      "Machine & Deep Learning",
+      "Competitive Coding"
+   ]
+}
 ```
 <hr/>
 
