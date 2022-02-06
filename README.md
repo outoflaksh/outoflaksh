@@ -10,7 +10,8 @@
 <hr />
 
 ```json
-// would you look at that, we have some delicious JSON here
+// would you look at that
+// we have some delicious JSON here
  {
    "myPrimaryTechStack":[
       "Python",
