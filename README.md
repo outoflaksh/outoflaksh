@@ -31,7 +31,8 @@
    "enthusiasticAbout":[
       "Cloud Engineering",
       "Machine & Deep Learning",
-      "Competitive Coding"
+      "Cybersecurity",
+      "DevOps"
    ]
 }
 ```
