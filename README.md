@@ -21,7 +21,7 @@
       "MERN"
    ],
    "alsoEnjoy":[
-      "Next.js",
+      "Django",
       "MongoDB",
       "Flask",
       "Scikit-Learn",
