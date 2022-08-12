@@ -40,9 +40,10 @@
 
 </p>
 
-#### *a fancy graphic displaying some 💫stats💫:*
+#### *some fancy graphics displaying some 💫stats💫:*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=outoflaksh&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=outoflaksh&show_icons=true&theme=dracula&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=outoflaksh&theme=dracula)
 
 ###### (looks kinda cool, doesn't it?)
 
